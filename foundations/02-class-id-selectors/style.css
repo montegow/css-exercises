@@ -1,0 +1,17 @@
+.big
+.pink-text{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:rgb(rgb(255, 0, 0), rgb(226, 229, 226), rgb(156, 156, 156));
+}
+.big{ 
+    font-size:24px;
+}
+#number-2{
+    color:rgb(0, 0, blue);
+    font-size:36px;
+}
+#number-4{
+    font-size:24px;
+    background-color:rgb (144,238,144);
+    font-weight:700;
+}
